@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Jake Yu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "정보보호 업무를 하고 있습니다."
+  bio              : "Security Engineer"
   location         : "Seoul, Korea"
   email            :
   links:
