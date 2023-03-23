@@ -6,6 +6,7 @@ tag: [Offensive Security, Penetration Testing, OSCP, Active Directory]
 toc: true
 toc_sticky: true
 toc_label: 목차
+author_profile: false
 ---
 
 ## 1️⃣ Active Directory Cheatsheet
