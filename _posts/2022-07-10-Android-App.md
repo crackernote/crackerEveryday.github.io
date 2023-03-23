@@ -6,6 +6,7 @@ tag: [Penetration Testing, Android]
 toc: true
 toc_sticky: true
 toc_label: 목차
+author_profile: false
 ---
 
 ## 1️⃣ Android App 구성요소	
