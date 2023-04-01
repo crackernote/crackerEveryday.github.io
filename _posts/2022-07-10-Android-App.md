@@ -2,7 +2,7 @@
 layout: single
 title: "Android App 구조"
 categories: Pentest
-tag: [Penetration Testing, Android]
+tag: [Mobile, Android, Pentesting]
 toc: true
 toc_sticky: true
 toc_label: 목차
@@ -233,10 +233,3 @@ author_profile: false
 \- setting.gradle
 
  \> 앱 빌드 시 포함할 모듈을 정의
-
-
-
-
-
-
-
