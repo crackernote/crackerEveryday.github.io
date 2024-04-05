@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: xdaem0n
+title: cracker
 subtitle: To fix it, you gotta break it
 description: To fix it, you gotta break it
 keywords:
-author: xdaem0n
+author: cracker
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xdaem0n.com/
+url: https://crackereveryday.github.io/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
